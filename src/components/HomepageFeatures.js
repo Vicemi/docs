@@ -5,29 +5,28 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('../../static/img/fullscreen.svg').default,
+    Svg: require('../../static/img/1.svg').default,
     description: (
       <>
-        Everything you need to see in one View. Nice, sleek and clean
+        A unique, minimalist and simple home design
       </>
     ),
   },
   {
     title: 'Simple but powerful Webinterface',
-    Svg: require('../../static/img/servers.svg').default,
+    Svg: require('../../static/img/2.svg').default,
     description: (
       <>
-For your clients to use. Using this Panel, its just a 2 minute Route from Paying to Playing
+Easy to use configuration system with a variety of systems and configurations according to what you are looking for in a great Dashboard
       </>
     ),
   },
   {
     title: 'Customizable and feature-packed',
-    Svg: require('../../static/img/custom.svg').default,
+    Svg: require('../../static/img/3.svg').default,
     description: (
       <>
-         With Invoices, Discord Integration, multiple payment-gateways and full translation to multiple languages you are ready to start your hosting company.
-          With the support of our great community, we offer a variety of themes for you to use
+         Your best option according to what you have always been looking for in a Dashboard, in addition to a catalog of extensive accessories for it
       </>
     ),
   },
